@@ -1,2 +1,2 @@
 # SnakePureJs
-Pure Javascript mobile snake game
+Pure Javascript mobile and desktop snake game
