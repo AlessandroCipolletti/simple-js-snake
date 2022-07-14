@@ -18,7 +18,6 @@
   cursor: pointer;
 }
 .field {
-  border: solid 1px gray;
   display: inline-grid;
 }
 .line {
@@ -31,6 +30,7 @@
   display: inline-block;
   border-radius: 4px;
   background-color: #fff;
+  background: rgba(240, 240, 240, 1);
 }
 .line div.snake {
   background-color: #666;
